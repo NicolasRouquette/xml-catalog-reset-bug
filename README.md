@@ -1,5 +1,7 @@
 # This project demonstrates a bug in the Open JDK 11 through 15 XML Catalog API implementation.
 
+Note submitted for internal review with ID: 9066971
+
 ## Bug.
 
 The implementation of `String javax.xml.catalog.GroupEntry.matchURI(String)` modifies two state variables `longestRewriteMatch` and `longestSuffixMatch`.
