@@ -1,6 +1,6 @@
 # This project demonstrates a bug in the Open JDK 11 through 15 XML Catalog API implementation.
 
-Note submitted for internal review with ID: 9066971
+See: [JDK-8253569](https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8253569)
 
 ## Bug.
 
